@@ -1,0 +1,234 @@
+[
+  {
+    "ContainingType": "LyncasSales.Controllers.UserController",
+    "Method": "CreateAsync",
+    "RelativePath": "v1",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "Get",
+    "RelativePath": "v1/customer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "CreateAsync",
+    "RelativePath": "v1/customer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCustomer",
+        "Type": "LyncasSales.Domain.DTO.CreateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "GetById",
+    "RelativePath": "v1/customer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "PutAsync",
+    "RelativePath": "v1/customer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "customer",
+        "Type": "LyncasSales.Domain.DTO.CreateCustomerDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "DeleteCustomerAsync",
+    "RelativePath": "v1/customer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.CustomersController",
+    "Method": "GetCustomers",
+    "RelativePath": "v1/customers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterParams",
+        "Type": "LyncasSales.Repository.Filter.CustomerFilterParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.SalesController",
+    "Method": "SearchSales",
+    "RelativePath": "v1/getall",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterParams",
+        "Type": "LyncasSales.Repository.Filter.SaleFilterParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.UserController",
+    "Method": "AuthenticateAsync",
+    "RelativePath": "v1/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "LyncasSales.Domain.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.SalesController",
+    "Method": "CreateSale",
+    "RelativePath": "v1/sale",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createSale",
+        "Type": "LyncasSales.Domain.DTO.CreateSaleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LyncasSales.Domain.Entities.Sale",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.SalesController",
+    "Method": "GetById",
+    "RelativePath": "v1/sale/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.SalesController",
+    "Method": "PutAsync",
+    "RelativePath": "v1/sale/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "sale",
+        "Type": "LyncasSales.Domain.DTO.CreateSaleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LyncasSales.Controllers.SalesController",
+    "Method": "DeleteSale",
+    "RelativePath": "v1/sale/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

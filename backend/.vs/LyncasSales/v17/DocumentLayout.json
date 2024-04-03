@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\controllers\\acountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\token\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\token\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|c:\\users\\lyncas\\documents\\projetos\\backend\\lyncassales\\lyncassales.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{FF53398E-0D14-41CA-97CF-6A7661856652}|LyncasSales\\LyncasSales.csproj|solutionrelative:lyncassales\\lyncassales.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "LyncasSales\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "LyncasSales\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAswEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:34:20.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Controllers\\AcountController.cs",
+              "RelativeDocumentMoniker": "LyncasSales\\Controllers\\AcountController.cs",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Controllers\\AcountController.cs",
+              "RelativeToolTip": "LyncasSales\\Controllers\\AcountController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAswEgAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T19:31:23.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Program.cs",
+              "RelativeDocumentMoniker": "LyncasSales\\Program.cs",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Program.cs",
+              "RelativeToolTip": "LyncasSales\\Program.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAcwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T18:10:49.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LyncasSales",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\projetos\\backend\\LyncasSales\\LyncasSales.csproj",
+              "RelativeDocumentMoniker": "LyncasSales\\LyncasSales.csproj",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\projetos\\backend\\LyncasSales\\LyncasSales.csproj",
+              "RelativeToolTip": "LyncasSales\\LyncasSales.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-15T17:45:17.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Token\\TokenService.cs",
+              "RelativeDocumentMoniker": "LyncasSales\\Token\\TokenService.cs",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Token\\TokenService.cs",
+              "RelativeToolTip": "LyncasSales\\Token\\TokenService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC8AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:33:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Token\\Token.cs",
+              "RelativeDocumentMoniker": "LyncasSales\\Token\\Token.cs",
+              "ToolTip": "C:\\Users\\Lyncas\\Documents\\Projetos\\backend\\LyncasSales\\Token\\Token.cs",
+              "RelativeToolTip": "LyncasSales\\Token\\Token.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T17:33:43.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
