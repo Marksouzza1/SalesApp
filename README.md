@@ -17,3 +17,7 @@ Acesso a banco de dados SQL Server com Entity Framework 6.
 Autenticação segura com JWT.
 Interface amigável e responsiva com Vue.js.
 Validação completa de dados de entrada.
+
+
+instalação do front end 
+executar npm install
